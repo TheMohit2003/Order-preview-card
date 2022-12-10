@@ -1,0 +1,23 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "order component card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMohit2003/Order-preview-card.git"
+  },
+  "keywords": [
+    "order",
+    "card"
+  ],
+  "author": "mohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheMohit2003/Order-preview-card/issues"
+  },
+  "homepage": "https://github.com/TheMohit2003/Order-preview-card#readme"
+}
